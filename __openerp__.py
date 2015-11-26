@@ -15,8 +15,5 @@ Add your sales document in the frontend portal. Your customers will be able to c
     'data': [
         'views/templates.xml',
     ],
-    'demo': [
-        'data/demo.xml'
-    ],
     'installable': True,
 }
